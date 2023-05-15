@@ -1,0 +1,42 @@
+{
+    "UpperBoddyBlast": [
+        {
+            "name": "Hammer Curls",
+            "sets": "3",
+            "reps": "12",
+            "type":  "bicep"
+        },
+        {
+            "name": "Tricep Extensions",
+            "sets": "3",
+            "reps": "12",
+            "type":  "Tricep" 
+
+        },
+        {
+            "name": "Upright Rows",
+            "sets": "3",
+            "reps": "12",
+            "type":  "shoulders"
+        },
+        {
+            "name": "Crossbody Curls",
+            "sets": "3",
+            "reps": "12",
+            "type":  "bicep"
+        },
+        {
+            "name": "triceps Kickbacks",
+            "sets": "3",
+            "reps": "12",
+            "type":  "Tricep" 
+        },
+        {
+            "name": "Raimbow Presses",
+            "sets": "3",
+            "reps": "12",
+            "type":  "shoulders"  
+        }
+        ]}
+    
+ 
